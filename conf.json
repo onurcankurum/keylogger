@@ -1,0 +1,7 @@
+{
+  "email": "example@yandex.com",
+  "password":"yourpassword",
+  "mic":"True",
+  "screen":"True",
+  "time":"600"
+}
